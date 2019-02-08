@@ -17,9 +17,10 @@
   "author": "Deb Johnson",
   "license": "MIT",
   "dependencies": {
-    "electron": "^2.0.8"
+    "electron": "^2.0.8",
+    "request": "^2.88.0"
   },
   "devDependencies": {
-    "electron-packager": "^12.1.0"
+    "electron-packager": "^13.0.1"
   }
 }
